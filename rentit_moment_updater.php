@@ -4,7 +4,7 @@
  * @version 1.0
  */
 /*
-Plugin Name: Rentit Moment Updater
+Plugin Name: Rentit Moment Updater 2.22.2 (ok)
 Plugin URI: https://wordpress.org/plugins/hello-dolly/
 Description: this make renit theme js and css file up to date
 Version: 1.0
